@@ -1,0 +1,114 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "AK-47 | Redline",
+      "image": "https://community.akamai.steamstatic.com/economy/image/class/730/1989287506/256x256",
+      "url": "https://www.bynogame.com/tr/oyunlar/cs2-skin/ak-47-redline-minimal-wear",
+      "originalPrice": "899.90",
+      "discountedPrice": "699.90",
+      "discount": 22,
+      "stock": 15,
+      "viewCount": 0
+    },
+    {
+      "id": 2,
+      "name": "AWP | Dragon Lore",
+      "image": "https://community.akamai.steamstatic.com/economy/image/class/730/4094513061/256x256",
+      "url": "https://www.bynogame.com/tr/oyunlar/cs2-skin/awp-dragon-lore-field-tested",
+      "originalPrice": "15999.90",
+      "discountedPrice": "12999.90",
+      "discount": 19,
+      "stock": 3,
+      "viewCount": 0
+    },
+    {
+      "id": 3,
+      "name": "M4A4 | Howl",
+      "image": "https://community.akamai.steamstatic.com/economy/image/class/730/4094513070/256x256",
+      "url": "https://www.bynogame.com/tr/oyunlar/cs2-skin/m4a4-howl-field-tested",
+      "originalPrice": "8999.90",
+      "discountedPrice": "7299.90",
+      "discount": 19,
+      "stock": 5,
+      "viewCount": 0
+    },
+    {
+      "id": 4,
+      "name": "Karambit | Fade",
+      "image": "https://community.akamai.steamstatic.com/economy/image/class/730/3999838799/256x256",
+      "url": "https://www.bynogame.com/tr/oyunlar/cs2-skin/karambit-fade-factory-new",
+      "originalPrice": "12999.90",
+      "discountedPrice": "9999.90",
+      "discount": 23,
+      "stock": 8,
+      "viewCount": 0
+    },
+    {
+      "id": 5,
+      "name": "Glock-18 | Fade",
+      "image": "https://community.akamai.steamstatic.com/economy/image/class/730/3999838820/256x256",
+      "url": "https://www.bynogame.com/tr/oyunlar/cs2-skin/glock-18-fade-factory-new",
+      "originalPrice": "1299.90",
+      "discountedPrice": "999.90",
+      "discount": 23,
+      "stock": 12,
+      "viewCount": 0
+    },
+    {
+      "id": 6,
+      "name": "StatTrak™ AK-47 | Fire Serpent",
+      "image": "https://community.akamai.steamstatic.com/economy/image/class/730/4094513082/256x256",
+      "url": "https://www.bynogame.com/tr/oyunlar/cs2-skin/stattrak-ak-47-fire-serpent-minimal-wear",
+      "originalPrice": "25999.90",
+      "discountedPrice": "19999.90",
+      "discount": 23,
+      "stock": 2,
+      "viewCount": 0
+    },
+    {
+      "id": 7,
+      "name": "Butterfly Knife | Crimson Web",
+      "image": "https://community.akamai.steamstatic.com/economy/image/class/730/3999838815/256x256",
+      "url": "https://www.bynogame.com/tr/oyunlar/cs2-skin/butterfly-knife-crimson-web-minimal-wear",
+      "originalPrice": "18999.90",
+      "discountedPrice": "14999.90",
+      "discount": 21,
+      "stock": 4,
+      "viewCount": 0
+    },
+    {
+      "id": 8,
+      "name": "Desert Eagle | Blaze",
+      "image": "https://community.akamai.steamstatic.com/economy/image/class/730/3999838829/256x256",
+      "url": "https://www.bynogame.com/tr/oyunlar/cs2-skin/desert-eagle-blaze-factory-new",
+      "originalPrice": "2999.90",
+      "discountedPrice": "2299.90",
+      "discount": 23,
+      "stock": 0,
+      "viewCount": 0
+    },
+    {
+      "id": 9,
+      "name": "StatTrak™ M4A1-S | Hyper Beast",
+      "image": "https://community.akamai.steamstatic.com/economy/image/class/730/4094513087/256x256",
+      "url": "https://www.bynogame.com/tr/oyunlar/cs2-skin/stattrak-m4a1-s-hyper-beast-factory-new",
+      "originalPrice": "1899.90",
+      "discountedPrice": "1499.90",
+      "discount": 21,
+      "stock": 18,
+      "viewCount": 0
+    },
+    {
+      "id": 10,
+      "name": "Bayonet | Doppler",
+      "image": "https://community.akamai.steamstatic.com/economy/image/class/730/3999838807/256x256",
+      "url": "https://www.bynogame.com/tr/oyunlar/cs2-skin/bayonet-doppler-factory-new",
+      "originalPrice": "5999.90",
+      "discountedPrice": "4699.90",
+      "discount": 22,
+      "stock": 7,
+      "viewCount": 0
+    }
+  ]
+}
