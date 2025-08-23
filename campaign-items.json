@@ -90,9 +90,9 @@
     },
     {
       "id": 9,
-      "name": "StatTrak™ M4A1-S | Hyper Beast",
-     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFQznaKdID5D6d23ldHSwKOmZeyEz21XvZZ12LzE9t6nigbgqkplNjihJIaLMlhpF1ZeR5c",
-      "url": "https://www.bynogame.com/tr/oyunlar/cs2-skin/usp-s-cortex-field-tested-p10573",
+      "name": "AWP | Chromatic Aberration",
+     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJB5M65mYG0h_76OITck29Y_cg_3ruZo9nziwXj-EBkN2zxdtSRJlRqZFHWqFe3yeu90ZC-v5mYzSFk7j5iuygAeEUWVQ",
+      "url": "https://www.bynogame.com/tr/oyunlar/cs2-skin/awp-chromatic-aberration-field-tested-p20208",
       "originalPrice": "1899.90",
       "discountedPrice": "1499.90",
       "discount": 21,
@@ -108,6 +108,61 @@
       "discountedPrice": "4699.90",
       "discount": 22,
       "stock": 7,
+      "viewCount": 0
+    }
+     {
+      "id": 11,
+      "name": "MAC-10 | Neon Rider",
+     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0Ob3fDxBvYyJmoWEmeX9N77DqWdY781lxL7Ao4ij0QGxrhVqMjzyJYHHdgFqYAmG_VS6kLi60cW1u8vNm3JivyY8pSGKRtki6Po",
+      "url": "https://www.bynogame.com/tr/oyunlar/cs2-skin/mac-10-neon-rider-minimal-wear-p4424",
+      "originalPrice": "1899.90",
+      "discountedPrice": "1499.90",
+      "discount": 21,
+      "stock": 18,
+      "viewCount": 0
+    },
+     {
+      "id": 12,
+      "name": "StatTrak™ M4A1-S | Hyper Beast",
+     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFQznaKdID5D6d23ldHSwKOmZeyEz21XvZZ12LzE9t6nigbgqkplNjihJIaLMlhpF1ZeR5c",
+      "url": "https://www.bynogame.com/tr/oyunlar/cs2-skin/usp-s-cortex-field-tested-p10573",
+      "originalPrice": "1899.90",
+      "discountedPrice": "1499.90",
+      "discount": 21,
+      "stock": 18,
+      "viewCount": 0
+    },
+     {
+      "id": 13,
+      "name": "Galil AR | Rocket Pop",
+     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczLZAJF7dC_mIGZqOf1Ia_YlWdU-_p8j-3I4IG73Qbs8xU4Zmr3LIPHcQI5ZF2Brle3wby5hJLuvpXKmHo2vyIgsXqInAv330-EhWQxkg",
+      "url": "https://www.bynogame.com/tr/oyunlar/cs2-skin/galil-ar-rocket-pop-field-tested-p4668",
+      "originalPrice": "1899.90",
+      "discountedPrice": "1499.90",
+      "discount": 21,
+      "stock": 18,
+      "viewCount": 0
+    },
+     {
+      "id": 14,
+      "name": "Glock-18 | Umbral Rabbit",
+     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0Ob3djFN79eJmY-EmcjmMrnTn39u5Mx2gv2Pp9z0i1ewqRFuZW-ndo_EewI3ZlvS-wDolbu60JO06ZzLyCNkuiB24mGdwUIUeEGmgg",
+      "url": "https://www.bynogame.com/tr/oyunlar/cs2-skin/glock-18-umbral-rabbit-factory-new-p21127",
+      "originalPrice": "1899.90",
+      "discountedPrice": "1499.90",
+      "discount": 21,
+      "stock": 18,
+      "viewCount": 0
+    },
+     {
+      "id": 15,
+      "name": "M4A4 | Temukau",
+     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhjxszFJTwW08izmZWAluLLPr7Vn35cppd0ieySoYqm21Xm80pvNT2mJNOUdQ84aFCC-QK_xu6515LuvpzMyXB9-n51uVO39f4",
+      "url": "https://www.bynogame.com/tr/oyunlar/cs2-skin/m4a4-temukau-field-tested-p21134",
+      "originalPrice": "1899.90",
+      "discountedPrice": "1499.90",
+      "discount": 21,
+      "stock": 18,
       "viewCount": 0
     }
   ]
